@@ -23,6 +23,9 @@
   <a href="mailto:rafaelaparecido.oliveirasilva@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rafaelaparecido.oliveirasilva@gmail.com">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://web.whatsapp.com/send?phone=5511962807125/" target="_blank"> <img src= "https://img.shields.io/badge/-WhatsApp-230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
   
   ![Snake animation](https://github.com/R4f43lA94r3c1d0/R4f43lA94r3c1d0/blob/output/github-contribution-grid-snake.svg)
  
