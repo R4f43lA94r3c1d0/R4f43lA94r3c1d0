@@ -1,16 +1,41 @@
 <h1> Oi! Meu nome é Rafael </h1>
 
 
+<summary>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
+  <span> Github stats : </span>
+</summary>
+<br>
+
 <div>
   <a href="https://github.com/R4f43lA94r3c1d0">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=R4f43lA94r3c1d0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4f43lA94r3c1d0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=R4f43lA94r3c1d0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4f43lA94r3c1d0&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
- <br>
+<br>
+
+<div align="center">
   
- ## Contacts:
+  <h2>Languages and Tools :</h2>
+ 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<!--
+<img src="https://img.shields.io/github/license/R4f43lA94r3c1d0/R4f43lA94r3c1d0.svg">
+
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png">
+  -->
+   
+</div>
   
+## Contacts : 
+
 <div  align="center"> 
 
   <a href="https://github.com/R4f43lA94r3c1d0">
