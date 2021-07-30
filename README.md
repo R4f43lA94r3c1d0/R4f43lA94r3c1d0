@@ -1,5 +1,4 @@
-<h1> Oi! Meu nome é Rafael </h1>
-
+<h1> Hi! I'm Rafael  <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="30"></h1>
 
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
@@ -14,23 +13,19 @@
 </div>
   
 <br>
-
-<div align="center">
   
-  <h2>Languages and Tools :</h2>
+<h2>Languages and Tools :</h2>
+
+<div align="center" <!--style="display: inline_block"--><br>
  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<!--
-<img src="https://img.shields.io/github/license/R4f43lA94r3c1d0/R4f43lA94r3c1d0.svg">
-
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png">
-  -->
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="VsCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  
    
 </div>
   
@@ -49,7 +44,8 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rafaelaparecido.oliveirasilva@gmail.com">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://web.whatsapp.com/send?phone=5511962807125/" target="_blank"> <img src= "https://img.shields.io/badge/-WhatsApp-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel=noopener>
+  <a href="https://t.me/sams3pioL" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   
   ![Snake animation](https://github.com/R4f43lA94r3c1d0/R4f43lA94r3c1d0/blob/output/github-contribution-grid-snake.svg)
