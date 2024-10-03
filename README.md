@@ -1,4 +1,4 @@
-<h1 align="left">Hello, World! 🙋🏽‍♂️ Sou Rafael Oliveira, prazer!</h1>
+<h1 align="left">Hello, World! 🙋🏽‍♂️ Rafael Oliveira, prazer!</h1>
 
 ###
 
