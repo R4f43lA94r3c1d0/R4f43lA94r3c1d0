@@ -1,11 +1,19 @@
-<h1> Hi! I'm Rafael  <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="30"></h1>
+<h1 align="left">Hello, World! 🙋🏽‍♂️ Sou Rafael Oliveira, prazer!</h1>
 
-<summary>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span> Github stats : </span>
-</summary>
-<br>
+###
 
+<h3 align="left">Engenheiro de Software Back-End</h3>
+
+###
+
+<p align="left">
+🎓 Formado como bolsista em Ciência da Computação pela PUC-SP<br>
+🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvimento de Software.<br>
+📖 Meus hobbies favoritos são a música e o cinema.<br>
+🚀 Apaixonado por criar soluções eficientes usando tecnologias como .NET, React e Angular.<br>
+💼 Atualmente, focado em projetos de alta performance e escalabilidade no Back-End.<br>
+
+###
 <div>
   <a href="https://github.com/R4f43lA94r3c1d0">
   <img height="158em" src="https://github-readme-stats.vercel.app/api?username=R4f43lA94r3c1d0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
