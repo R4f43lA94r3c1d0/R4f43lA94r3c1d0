@@ -71,7 +71,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rafaelaparecido.oliveirasilva@gmail.com">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5511962807125" target="_blank">
+  <a href="https://wa.me/5511962807125">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat"/>
   </a>
   
